@@ -4,5 +4,6 @@ public class Test {
 
 	public static void main(String[] args){
 		int master;
+		int b1;
 	}
 }
