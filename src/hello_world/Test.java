@@ -6,6 +6,7 @@ public class Test {
 		int master;
 		int b1;
 		int b3;
-		int b8;
+		int b99;
+		int b88;
 	}
 }
