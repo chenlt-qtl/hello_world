@@ -3,6 +3,8 @@ package hello_world;
 public class Test {
 
 	public static void main(String[] args){
-		System.out.println("hello,I'm from master!");
+		int master;
+		int b1;
+		int b2;
 	}
 }
